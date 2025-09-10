@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Soy Javier, desarrollador web con enfoque en **backend** (Laravel, Symfony, PHP) y experiencia en **React y JavaScript**.  <br>🐍 Me apasiona **Python**, especialmente para crear automatizaciones, monitores y bots que simplifican procesos.  <br>🚀 Siempre buscando aprender, mejorar y aportar en proyectos donde la tecnología haga la diferencia.  <br>
+👋 Soy Javier, desarrollador web con enfoque en **backend** (Laravel, Symfony, PHP) y experiencia en **React y JavaScript**.  <br>🐍 Me apasiona **Python**, especialmente para crear automatizaciones, monitores y scripts que simplifican procesos.  <br>🚀 Siempre buscando aprender, mejorar y aportar en proyectos donde la tecnología haga la diferencia.  <br>
 
 
 ## 🌐 Socials:
