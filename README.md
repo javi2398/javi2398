@@ -22,26 +22,17 @@ Hoy desarrollo aplicaciones full-stack con **Laravel + React** y tengo experienc
 
 ### 🚀 Proyecto destacado
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/javi2398/inventar.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javi2398&repo=inventar.io&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <h3>📦 Inventar.io</h3>
-      <p>SPA de gestión de inventario para autónomos y pequeños negocios.</p>
-      <p>
-        <strong>Stack:</strong> Laravel 12 · React · Inertia.js · PostgreSQL · Docker · GitHub Actions
-      </p>
-      <p>
-        🌐 <a href="https://inventario.free.laravel.cloud"><strong>Demo en vivo</strong></a> · 
-        💻 <a href="https://github.com/javi2398/inventar.io"><strong>Código</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+#### 📦 [Inventar.io](https://github.com/javi2398/inventar.io)
+
+<a href="https://inventario.free.laravel.cloud">
+  <img src="https://raw.githubusercontent.com/javi2398/inventar.io/main/docs/screenshots/dashboard.png" alt="Inventar.io dashboard" width="700" />
+</a>
+
+SPA de gestión de inventario para autónomos y pequeños negocios, con autenticación, dashboard analítico, gestión de imágenes con Cloudinary y despliegue continuo en Laravel Cloud.
+
+**Stack:** Laravel 12 · React · Inertia.js · PostgreSQL · Docker · GitHub Actions · Tailwind CSS
+
+🌐 **[Demo en vivo](https://inventario.free.laravel.cloud)** · 💻 **[Código en GitHub](https://github.com/javi2398/inventar.io)**
 
 ---
 
@@ -73,15 +64,6 @@ Hoy desarrollo aplicaciones full-stack con **Laravel + React** y tengo experienc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javi2398&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javi2398&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
 
 ---
 
