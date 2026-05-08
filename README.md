@@ -32,7 +32,7 @@ SPA de gestión de inventario para autónomos y pequeños negocios, con autentic
 
 **Stack:** Laravel 12 · React · Inertia.js · PostgreSQL · Docker · GitHub Actions · Tailwind CSS
 
-🌐 **[Demo en vivo](https://inventario.free.laravel.cloud)** · 💻 **[Código en GitHub](https://github.com/javi2398/inventar.io)**
+🌐 **[Demo](https://inventario.free.laravel.cloud)** · 💻 **[Código](https://github.com/javi2398/inventar.io)**
 
 ---
 
