@@ -69,14 +69,6 @@ SPA de gestión de inventario para autónomos y pequeños negocios, con autentic
 
 ### 🤝 Conecta conmigo
 
-<p>
-  <a href="https://www.linkedin.com/in/javv/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:javi2398@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://inventario.free.laravel.cloud">
-    <img src="https://img.shields.io/badge/Mi_Demo-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javv/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javi2398@gmail.com)
+[![Demo](https://img.shields.io/badge/Mi_Demo-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inventario.free.laravel.cloud)
