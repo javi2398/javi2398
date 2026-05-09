@@ -11,7 +11,7 @@
 
 Vengo de un camino atípico: tras varios años en negocios digitales y ciencia de laboratorio, di el salto al desarrollo web para construir mis propias soluciones.
 
-Hoy desarrollo aplicaciones full-stack con **Laravel + React** y tengo experiencia real en QA automatizado tras mis prácticas en BRGI. Mi proyecto bandera es **[Inventar.io](https://inventario.free.laravel.cloud)**, una SPA de gestión de inventario con CI/CD propio y desplegada en producción.
+Hoy desarrollo aplicaciones full-stack con **Laravel + React** y tengo experiencia real en QA automatizado tras mis prácticas en BRGI. Mi proyecto principal es **[Inventar.io](https://inventario.free.laravel.cloud)**, una SPA de gestión de inventario con CI/CD propio y desplegada en producción.
 
 - 🔭 Trabajando actualmente en mejoras de **Inventar.io** (testing, refactor, nuevas features)
 - 🌱 Aprendiendo arquitecturas avanzadas en el **Curso de Arquitectura de Software** de la Universidad de Córdoba
